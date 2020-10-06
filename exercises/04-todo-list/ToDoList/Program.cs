@@ -7,8 +7,8 @@ namespace ToDoList
 {
     class TodoList
     {
-        private readonly List<Tuple<string, DateTime>> completeTasks;
-        private readonly List<Tuple<string, DateTime>> incompleteTasks;
+        private List<Tuple<string, DateTime>> completeTasks;
+        private List<Tuple<string, DateTime>> incompleteTasks;
 
         public TodoList()
         {
@@ -128,6 +128,9 @@ namespace ToDoList
                         continue;
                     }
                     incompleteTasks.Add(Tuple.Create(description, deadline));
+                } else if (command == "clean")
+                {
+                    completeTasks = new List<Tuple<string, DateTime>>();
                 }
             }
 
