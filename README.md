@@ -82,6 +82,16 @@
 2. [Серия постов Сергея Теплякова про SOLID](http://sergeyteplyakov.blogspot.com/2014/10/solid.html)
 3. [Серия постов Александра Бындю про SOLID](https://blog.byndyu.ru/2009/12/blog-post.html)
 
+### Занятие 6. Паттерны проектирования
+
+[Презентация](https://docs.google.com/presentation/d/1sGJELMhHPoTqw-5UCzEsST_GQrqT9ybKkEIftq4afzk/edit?usp=sharing)
+
+**Литература**
+1. Эрих Гамма, Ричард Хелм, Ральф Джонсон, Джон Влиссидес. Приемы объектно-ориентированного проектирования. Паттерны проектирования
+2. Эрик Фримен, Элизабет Фримен, Кэтти Сьерра, Берт Бейтс. Паттерны проектирования
+3. [Паттерны проектирования на refactoring.guru](https://refactoring.guru/ru/design-patterns)
+
+
 ## Практика
 
 ### Задача 1
