@@ -91,6 +91,10 @@
 2. Эрик Фримен, Элизабет Фримен, Кэтти Сьерра, Берт Бейтс. Паттерны проектирования
 3. [Паттерны проектирования на refactoring.guru](https://refactoring.guru/ru/design-patterns)
 
+### Занятие 7. Практика по паттернам
+
+[Репозиторий с задачами](https://github.com/csu-iit/programming-Patterms.CSharp)
+
 
 ## Практика
 
