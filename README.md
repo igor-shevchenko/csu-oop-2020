@@ -6,7 +6,7 @@
 
 ## Лекции
 
-### Лекция 1. Введение в ООТ
+### 1. Введение в ООТ
 
 [Презентация](https://docs.google.com/presentation/d/1GHh-BulJamQcb-XhXllAbtCEKMQC33mXX9w4XyVj8WQ/edit?usp=sharing)
 
@@ -28,7 +28,7 @@
 [Код решения](exercises/01-payroll)
 
 
-### Лекция 2. Принципы разработки ПО
+### 2. Принципы разработки ПО
 
 [Презентация](https://docs.google.com/presentation/d/1AYDo-koXLtNgOB-SZSJTagFq4u7Viy5kZxFh-9-bV8M/edit?usp=sharing)
 
@@ -46,7 +46,7 @@
 [Код решения](exercises/02-shapes)
 
 
-### Занятие 3. Практика
+### 3. Практика
 
 [Презентация](https://docs.google.com/presentation/d/1cUcijEHsNAJkW8Coe1h-wEQH9zyzZ8V4zJ2_XQcqqK8/edit?usp=sharing)
 
@@ -61,7 +61,7 @@
 
 Игра должна иметь минимальный необходимый интерфейс и не давать сломать свои данные снаружи.
 
-### Занятие 4. Проектирование модулей
+### 4. Проектирование модулей
 
 [Презентация](https://docs.google.com/presentation/d/1keyYJneEvHIiyqDj62vhegthm7lPVYyMoTRPjxypflY/edit?usp=sharing)
 
@@ -73,7 +73,7 @@
 
 [Код, который надо отрефакторить](exercises/04-todo-list)
 
-### Занятие 5. Принципы SOLID
+### 5. Принципы SOLID
 
 [Презентация](https://docs.google.com/presentation/d/1bnWZ02mPhRJFYMO1XcMMDzWDxceIhK9Pn-V0isRj8bY/edit?usp=sharing)
 
@@ -82,7 +82,7 @@
 2. [Серия постов Сергея Теплякова про SOLID](http://sergeyteplyakov.blogspot.com/2014/10/solid.html)
 3. [Серия постов Александра Бындю про SOLID](https://blog.byndyu.ru/2009/12/blog-post.html)
 
-### Занятие 6. Паттерны проектирования
+### 6. Паттерны проектирования
 
 [Презентация](https://docs.google.com/presentation/d/1sGJELMhHPoTqw-5UCzEsST_GQrqT9ybKkEIftq4afzk/edit?usp=sharing)
 
@@ -91,14 +91,14 @@
 2. Эрик Фримен, Элизабет Фримен, Кэтти Сьерра, Берт Бейтс. Паттерны проектирования
 3. [Паттерны проектирования на refactoring.guru](https://refactoring.guru/ru/design-patterns)
 
-### Занятие 7. Практика по паттернам
+### 7. Практика по паттернам
 
 [Репозиторий с задачами](https://github.com/csu-iit/programming-Patterms.CSharp)
 
 
 ## Практика
 
-### Задача 1
+### Задача 1. Родственные связи
 
 Напишите программу, которая моделирует родственные связи. Программа позволяет создать объекты типа `Person` и указывать, кто из людей кому является родителем и кто с кем состоит в браке.
 
@@ -108,7 +108,7 @@
 * Дядюшек и тетушек
 * In-laws (cвекра и свекрови или тестя и тещи)
 
-### Задача 2
+### Задача 2. Книжный магазин
 
 Реализовать модуль корзины для вычисления общей стоимости заказа в книжном интернет-магазине:
 
