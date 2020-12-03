@@ -149,6 +149,20 @@
 [Код решения](exercises/11-pizza-shop)
 
 
+### 12. Domain-Driven Design  
+
+[Презентация](https://docs.google.com/presentation/d/1p2486Gbb2M08K7AvUcxpFo3f-_EclKccL4ZIffUiefg/edit?usp=sharing)
+
+[Код примера](https://github.com/urfu-code/Darts)
+
+**Литература**
+
+1. Эрик Эванс. Предметно-ориентированное проектирование (DDD). Структуризация сложных программных систем
+2. [Domain Driven Design Quickly — краткое содержание книги Эрика Эванса](http://www.infoq.com/minibooks/domain-driven-design-quickly/)
+3. [Harry Percival, Bob Gregory. Architecture Patterns with Python](https://www.cosmicpython.com/)
+4. [Лекция по DDD на ulearn.me](https://ulearn.me/course/cs2/Chto_takoe_DDD_41922668-4105-4ea0-a1c1-ef138e5441bb)
+
+
 ## Практика
 
 ### Задача 1. Родственные связи
